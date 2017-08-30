@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>303851384812-p2ojlr3iv0opd0bfq7rqolr6ieu8fqbe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303851384812-p2ojlr3iv0opd0bfq7rqolr6ieu8fqbe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIFE875jjjWio1GX1_Omaude2jsQ4ov28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303851384812</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AMO-X-LIMITED</string>
+	<key>PROJECT_ID</key>
+	<string>asiabots-clinicpad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asiabots-clinicpad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303851384812:ios:0955db966fb26a1d</string>
+	<key>DATABASE_URL</key>
+	<string>https://asiabots-clinicpad.firebaseio.com</string>
+</dict>
+</plist>

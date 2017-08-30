@@ -1,0 +1,6 @@
+framework module Pods_ClinicIPADUITests {
+  umbrella header "Pods-ClinicIPADUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
